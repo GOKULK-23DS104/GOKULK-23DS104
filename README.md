@@ -1,340 +1,181 @@
 <div align="center">
 
-# ⚡ GOKUL K ⚡
+# Gokul K
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=DATA+ANALYST;DATA+SCIENCE+ENTHUSIAST;AI+%26+ML+BUILDER;PYTHON+DEVELOPER;NLP+%7C+POWER+BI+%7C+SQL;BUILDING+INTELLIGENT+SYSTEMS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+B.Sc+Computer+Science+(Data+Science);Python+%7C+SQL+%7C+Power+BI+%7C+Scikit-learn;NLP+Builder+%7C+BI+Dashboard+Engineer;Freshskills+Intern+%E2%80%94+4+Months+Real-World+Data+Work" />
 
----
+<br/>
 
-### 🚀 Data Analyst • AI Builder • Machine Learning Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=GOKULK-23DS104&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-<a href="mailto:ggokulk237@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/GOKULK-23DS104">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/gokul-k-4928a8394">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin">
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=GOKULK-23DS104&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/GOKULK-23DS104)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-ggokulk237@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ggokulk237@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulkumar-k-20051410-da/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-GOKULK--23DS104-181717?style=flat-square&logo=github)](https://github.com/GOKULK-23DS104)
 
 </div>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+## About me
 
-```python
-class GokulK:
+I am an aspiring Data Analyst and final-year B.Sc. Computer Science (Data Science) student at DRB CCCH College, Tamil Nadu. Over the past year I have built hands-on experience in data cleaning, exploratory data analysis, machine learning, NLP, and BI dashboard development — including a 4-month Data Analysis internship at Freshskills where I worked on real-world datasets and delivered dashboards to business stakeholders.
 
-    def __init__(self):
+I am interested in building intelligent, data-driven systems that turn raw data into decisions.
 
-        self.role = "Data Analyst & AI Engineer"
-
-        self.specialization = [
-            "Data Science",
-            "Machine Learning",
-            "NLP",
-            "Dashboard Engineering",
-            "AI Applications",
-            "Automation Systems"
-        ]
-
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
-
-        self.tools = [
-            "Power BI",
-            "Streamlit",
-            "GitHub",
-            "Jupyter",
-            "VS Code"
-        ]
-
-        self.current_mission = """
-        Building intelligent systems using
-        AI + Analytics + Automation
-        """
-
-    def future_goal(self):
-        return "AI Systems Architect"
-
-gokul = GokulK()
-```
+📍 Arakkonam, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.Sc. CS (Data Science) — 2023–2026 &nbsp;|&nbsp; 📊 79.33% aggregate
 
 ---
 
-# ⚡ ABOUT ME
+## Key achievements
 
-🔹 Aspiring **Data Analyst** focused on transforming raw datasets into actionable intelligence.
-
-🔹 Skilled in:
-- Data Cleaning
-- Exploratory Data Analysis
-- Dashboard Development
-- Machine Learning
-- NLP-based Applications
-- Statistical Analysis
-
-🔹 Passionate about:
-- Artificial Intelligence
-- Automation Systems
-- Data Engineering
-- AI Agents
-- Intelligent Applications
-
-🔹 Strong interest in building:
-- AI-powered systems
-- Real-world analytics projects
-- Decision-support dashboards
-- Automation workflows
+- 🏆 Built an **NLP-powered Resume Analyzer** (TF-IDF + Cosine Similarity) that automated ATS match scoring, reducing manual resume screening effort by an estimated **70%**
+- 🥇 Scored **94/100 (Distinction)** in the NCVTE National Python Certification — top tier among national participants
+- 📊 Delivered end-to-end analytics across **3 Kaggle datasets** — preprocessing, EDA, ML modelling, and visual insight decks used in academic presentations
+- 📈 Built an interactive **IPL Power BI Dashboard** analysing 1,095 matches across team performance, player impact, and scoring patterns
 
 ---
 
-# 🛠 TECH STACK
+## Tech stack
 
-<div align="center">
+### Languages & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 👨‍💻 LANGUAGES
+### Data Analysis & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+### BI & Visualisation
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### NLP & Text Analytics
+![TF-IDF](https://img.shields.io/badge/TF--IDF-8B5CF6?style=flat-square)
+![Cosine Similarity](https://img.shields.io/badge/Cosine_Similarity-7C3AED?style=flat-square)
+![PDF Parsing](https://img.shields.io/badge/PDF_Parsing-6D28D9?style=flat-square)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Web Apps & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ---
 
-## ⚙️ TOOLS & TECHNOLOGIES
+## Internship experience
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
+### Data Analysis Intern — Freshskills &nbsp; `May 2025 – Aug 2025`
+
+- Cleaned, transformed, and preprocessed **5+ real-world datasets** using Python (Pandas, NumPy) and SQL — reducing data quality errors by approximately **40%**
+- Conducted EDA and built visualisations with Matplotlib and Seaborn to surface trends, patterns, and outliers for business stakeholders
+- Designed and delivered **Power BI and Excel dashboards** tracking key performance metrics, enabling faster weekly reporting cycles
+- Managed **MySQL databases** for structured data storage and retrieval across teams
+- Produced analytical reports that directly supported data-driven business decisions, presented to supervisors during project reviews
 
 ---
 
-## 📊 DATA ANALYTICS
+## Featured projects
 
-| Domain | Technologies |
+### 🤖 AI-Powered Resume Analyzer
+> Python · Streamlit · NLP · TF-IDF · Cosine Similarity
+
+An NLP web application that analyses resumes against job descriptions using TF-IDF vectorisation and cosine similarity for ATS match scoring. Integrated PDF parsing and keyword extraction to deliver resume optimisation feedback, deployed via Streamlit for interactive use. Reduced manual resume screening effort by an estimated 70%.
+
+---
+
+### 📊 IPL Data Analysis Dashboard
+> Power BI · Sports Analytics
+
+Interactive Power BI dashboard analysing **1,095 IPL matches** using match and delivery datasets. Covers team performance, player impact, and scoring patterns. Built KPI cards, team-wise winner distribution charts, target runs vs overs scatter analysis, and batter-wise Player of the Match breakdowns. Surfaced insights on team dominance, historical rivalries, and toss influence on outcomes.
+
+---
+
+### 🏦 Bank Marketing — Predictive & Advanced Analysis
+> Power BI · Financial Analytics
+
+One-page Power BI dashboard analysing loan subscription behaviour from synthetic bank marketing data. Integrated Key Influencers and Top Segments visuals to identify primary drivers of loan response — including age thresholds and student status. Identified **5K subscribers from 45K total customers** with conversion rate analysis by campaign contact count.
+
+---
+
+### 🩺 Hearing Wellness Survey Analytics (HHI)
+> Python · Scikit-learn · Statistics
+
+Analysed healthcare survey data to identify demographic and behavioural patterns. Applied Scikit-learn models and correlation analysis to generate insights that informed healthcare recommendations.
+
+---
+
+### 📈 Kaggle Dataset Analytics
+> Python · Pandas · NumPy · Scikit-learn · Matplotlib
+
+End-to-end analytics pipeline across 3 Kaggle datasets — data preprocessing, EDA, ML modelling (classification and regression), and visualisation reports. Produced insight decks used in academic presentations across 3 subject areas.
+
+---
+
+## Certifications
+
+| Certification | Grade |
 |---|---|
-| Data Analysis | Pandas, NumPy, SQL |
-| Visualization | Power BI, Excel, Matplotlib, Seaborn |
-| Machine Learning | Scikit-learn, Feature Engineering |
-| NLP | TF-IDF, Cosine Similarity |
-| Databases | MySQL, SQLite |
-| Web Apps | Streamlit, Tkinter |
-| Tools | Jupyter, Colab, VS Code |
-
-</div>
+| Advanced Data Science & Data Exploration with Python | A+ |
+| Python Certificate Program | A+ |
+| NCVTE National Python Certification | 94/100 — Distinction |
 
 ---
 
-# 🚀 FEATURED PROJECTS
-
-# 🤖 AI-Powered Resume Analyzer
-
-### 📌 Overview
-Built an intelligent ATS-based Resume Analyzer using NLP techniques.
-
-### ⚡ Features
-✔ Resume Parsing  
-✔ PDF Processing  
-✔ ATS Match Score  
-✔ Keyword Extraction  
-✔ Job Description Matching  
-✔ Skill Analysis Dashboard  
-
-### 🛠 Technologies
-```txt
-Python • Streamlit • NLP • TF-IDF • Cosine Similarity
-```
-
----
-
-# 📊 Kaggle Dataset Analytics
-
-### 📌 Project Scope
-Executed complete analytics workflow on real-world datasets.
-
-### ⚡ Implemented
-✔ Data Cleaning  
-✔ Exploratory Data Analysis  
-✔ Visualization Engineering  
-✔ Predictive Modeling  
-✔ Statistical Insights  
-
-### 🛠 Technologies
-```txt
-Python • Pandas • NumPy • Scikit-learn • Matplotlib
-```
-
----
-
-# 🔐 Access Control & Workflow Management System
-
-### 📌 Objective
-Designed a role-based management system for organizing:
-- Users
-- Roles
-- Groups
-- Permissions
-- Workflows
-
-### ⚡ Features
-✔ Role Management  
-✔ Workflow Tracking  
-✔ Group Coordination  
-✔ Access Monitoring  
-
----
-
-# 🩺 Hearing Wellness Survey Analytics (HHI)
-
-### 📌 Description
-Healthcare analytics project focused on identifying behavioral and demographic patterns.
-
-### ⚡ Analytics Performed
-✔ Data Preprocessing  
-✔ EDA  
-✔ Correlation Analysis  
-✔ Statistical Analysis  
-✔ Predictive Insights  
-
-### 🛠 Technologies
-```txt
-Python • Scikit-learn • EDA • Statistical Analytics
-```
-
----
-
-# 💼 INTERNSHIP EXPERIENCE
-
-# 📈 Data Analysis Intern — Freshskills
-
-📅 May 2025 – Aug 2025
-
-### 🚀 Responsibilities
-
-✔ Data Cleaning & Transformation  
-✔ SQL Database Management  
-✔ Exploratory Data Analysis  
-✔ Dashboard Building  
-✔ Reporting & Insights Generation  
-
-### ⚡ Achievements
-
-- Developed dashboards using Power BI & Excel
-- Performed real-world trend analysis
-- Supported data-driven business decisions
-- Worked with structured datasets using SQL
-
----
-
-# 🏆 CERTIFICATIONS
-
-🥇 Advanced Data Science & Data Exploration with Python — A+  
-
-🥇 Python Certificate Program — A+  
-
-🥇 NCVTE National Certification in Python — 94/100 (Distinction)
-
----
-
-# 🎓 EDUCATION
-
-# 🎓 B.Sc Computer Science with Data Science
-
-🏫 Dharmamurthi Rao Bahadur Calavala Cunnan Chetty’s Hindu College  
-
-📅 2023 — 2026  
-
-📊 Current Percentage: **79.33%**
-
----
-
-# 📊 GITHUB ANALYTICS
+## GitHub stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKULK-23DS104&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GOKULK-23DS104&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULK-23DS104&layout=compact&theme=default&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULK-23DS104&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULK-23DS104&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULK-23DS104&theme=default&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 ACTIVITY GRAPH
+## Education
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOKULK-23DS104&theme=tokyo-night&hide_border=true"/>
-
-</div>
+**B.Sc. Computer Science with Data Science**
+Dharmamurthi Rao Bahadur Calavala Cunnan Chetty's Hindu College, Chennai
+`2023 – 2026` &nbsp;|&nbsp; Current Percentage: **79.33%**
 
 ---
 
-# 🎯 CURRENT FOCUS
+## Currently learning
 
 ```yaml
-Learning:
-  - Advanced Machine Learning
-  - Artificial Intelligence
-  - AI Agents
-  - NLP Systems
-  - Data Engineering
-  - Automation Workflows
+Focus areas:
+  - Advanced Machine Learning & model deployment
+  - AI agent development (LangChain, CrewAI)
+  - Data Engineering & pipeline automation
+  - NLP systems and LLM applications
 
 Building:
-  - AI Applications
-  - Data Dashboards
-  - Intelligent Systems
-  - Analytical Pipelines
-
-Goal:
-  - Become an AI Systems Engineer
+  - AI-powered analytics tools
+  - Automated reporting pipelines
+  - Intelligent decision-support systems
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
-
 <div align="center">
 
-<a href="mailto:ggokulk237@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/GOKULK-23DS104">
-<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/gokul-k-4928a8394">
-<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ PHILOSOPHY
-
-### “Data becomes powerful when transformed into intelligent decisions.”
-
----
-
-⭐ Exploring AI • Building Systems • Solving Problems ⭐
+*"Data becomes powerful when transformed into intelligent decisions."*
 
 </div>
